@@ -1,4 +1,4 @@
-## Sentiment-Analysis-of-Stocks-from-News-Headlines
+# Sentiment-Analysis-of-Stocks-from-News-Headlines
  
-# Author: Krishnaditya Kancharla
+### Author: Krishnaditya Kancharla
 
